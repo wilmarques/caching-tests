@@ -1,0 +1,25 @@
+{
+  "name": "caching-tests",
+  "version": "0.0.0",
+  "description": "Testing how HTTP cache works and to invalidate it.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilmarques/caching-tests.git"
+  },
+  "keywords": [
+    "http-cache"
+  ],
+  "author": "Wiley Marques",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/wilmarques/caching-tests/issues"
+  },
+  "homepage": "https://github.com/wilmarques/caching-tests#readme"
+}
